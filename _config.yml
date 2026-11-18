@@ -1,0 +1,11 @@
+title: "Aster Ridge Foundation — Emerging Scholars Grant"
+description: "The Emerging Scholars Grant supports early-career researchers in computing, engineering and environmental science with a two-year stipend and structured mentorship."
+baseurl: ""
+url: ""
+markdown: kramdown
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
